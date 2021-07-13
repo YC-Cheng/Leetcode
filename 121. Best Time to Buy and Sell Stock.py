@@ -19,6 +19,7 @@ class Solution(object):
         return profit
 
 ##############################
+#Failed
 # Min = (0 , prices[0])
 # Max = (0 , prices[0])
 # profit = 0
@@ -35,6 +36,7 @@ class Solution(object):
 # print ("ans: ", Max[1] - Min[1] ,"Max: ", Max,"Min: ", Min )
 
 # #############################
+# ans from leetcode
 # prices = [9,8,7,6,5,4]
 # if len(prices) == 0:
 #     print (0)
@@ -50,7 +52,7 @@ class Solution(object):
 #
 # print(profit) # profit = 0
 # ############################
-#
+## ans from leetcode
 # prices = [2,4,1]
 # if len(prices) == 0:
 #     print (0)
