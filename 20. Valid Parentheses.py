@@ -1,3 +1,4 @@
+#Ans from https://www.youtube.com/watch?v=WTzjTskDFMg
 class Solution(object):
     def isValid(self, s):
         """
